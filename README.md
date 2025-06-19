@@ -10,14 +10,13 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
 ### 🔧 Backend & AI
 - **Languages**: Node.js (Express, NestJS), Python (FastAPI, Flask)
 - **AI Tools**: OpenAI APIs, TensorFlow, PyTorch, Scikit-learn
-- **Database**: MySQL, PostgreSQL, MongoDB
+- **Database**: MySQL, PostgreSQL
 - **Caching & Performance**: Redis, Prometheus, Docker Compose
 
 ### ☁️ DevOps & Deployment
 - **Cloud Platforms**: AWS EC2, Vercel, Render
 - **Containerization**: Docker (images, compose, volume, networks)
-- **CI/CD Tools**: GitHub Actions, PM2, Supervisor
-
+- **CI/CD Tools**: GitHub Actions
 ### 🐧 Linux & Command Line
 - Comfortable with Linux CLI for server setup, process management, file handling, and automation scripts.
 
