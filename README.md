@@ -29,13 +29,20 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
 
 ---
 
-## 📫 Contact Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Gmail: Hudony00800@gmail.com  
-- 📘 Facebook: [facebook.com/khachuy.nguyen.58726](facebook.com/khachuy.nguyen.58726)  
-- 📱 Phone: (+84) 0352344059
-
+## 📫 **Connect with Me**
+<p align="left">
+  <a href="mailto:Hudony00800@gmail.com ">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="facebook.com/khachuy.nguyen.58726">
+    <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="tel:+84352344059">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+  </a>
+</p>
 ---
 
 > “Simplicity is the soul of efficiency.” – Austin Freeman
