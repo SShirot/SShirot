@@ -35,7 +35,7 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://facebook.com/khachuy.nguyen.58726">
-    <img src="https://img.shields.io/badge/Facebook-khachuy.nguyen.58726-0F4C81?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-khachuy.nguyen.58726-0F4C81?style=for-the-badge&logo=facebook&logoColor=blue">
   </a>
   <a href="tel:+84903523459">
     <img src="https://img.shields.io/badge/Phone-%2B84%20903523459-25D366?style=for-the-badge&logo=phone&logoColor=white">
