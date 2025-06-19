@@ -34,7 +34,7 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
   <a href="mailto:Hudony00800@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="facebook.com/khachuy.nguyen.58726">
+  <a href="https://facebook.com/khachuy.nguyen.58726">
     <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="tel:+84352344059">
