@@ -2,9 +2,9 @@
 
 I'm a **Backend Developer** with a strong foundation in building scalable systems and integrating AI solutions into real-world applications.
 
-🚀 **Software Engineer** | ☁️ **Cloud Enthusiast** | 🛠️ **Backend Specialist**
----
 
+---
+🚀 **Software Engineer** | ☁️ **Cloud Enthusiast** | 🛠️ **Backend Specialist**
 ## 💻 Tech Stack
 
 ### 🔧 Backend & AI
