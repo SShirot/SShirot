@@ -44,7 +44,7 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
   </a>
 </p>
 <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Visitors&color=0e75b6" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=sshirot&label=Visitors&color=0e75b6" />
 ---
 
 > “Simplicity is the soul of efficiency.” – Austin Freeman
