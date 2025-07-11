@@ -38,7 +38,7 @@ I'm a **Backend Developer** with a strong foundation in building scalable system
     <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="tel:+843523459">
-    <img src="https://img.shields.io/badge/Phone-%2B84%20903523459-25D366?style=for-the-badge&logo=phone&logoColor=white">
+    <img src="https://img.shields.io/badge/Phone-%2B84%2003523459-25D366?style=for-the-badge&logo=phone&logoColor=white">
   </a>
 </p>
   </a>
