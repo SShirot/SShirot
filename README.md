@@ -1,50 +1,136 @@
-# 👋 Hi there, I'm Nguyen Khac Huy
+# 👋 Hi, I'm Nguyen Khac Huy
 
-I'm a **Backend Developer** with a strong foundation in building scalable systems and integrating AI solutions into real-world applications.
+I'm an **Infrastructure / DevOps Engineer** focused on building, automating, and operating reliable software infrastructure.
 
+I work across **Linux, containers, networking, CI/CD, Kubernetes, observability, and infrastructure automation**, with a strong interest in **SRE and Platform Engineering**.
 
----
-🚀 **Software Engineer** | ☁️ **Cloud Enthusiast** | 🛠️ **Backend Specialist**
-## 💻 Tech Stack
-
-### 🔧 Backend & AI
-- **Languages**: Node.js (Express, NestJS), Python (FastAPI, Flask)
-- **AI Tools**: OpenAI APIs, TensorFlow, PyTorch, Scikit-learn
-- **Database**: MySQL, PostgreSQL
-- **Caching & Performance**: Redis, Prometheus, Docker Compose
-
-### ☁️ DevOps & Deployment
-- **Cloud Platforms**: AWS EC2, Vercel, Render
-- **Containerization**: Docker (images, compose, volume, networks)
-- **CI/CD Tools**: GitHub Actions
-### 🐧 Linux & Command Line
-- Comfortable with Linux CLI for server setup, process management, file handling, and automation scripts.
+I come from a software engineering background, which helps me understand systems from both the **application and infrastructure perspectives**.
 
 ---
 
-## 🚀 Current Interests
-- Building AI-powered microservices for production
-- Optimizing backend performance & infrastructure monitoring
-- Exploring new container orchestration strategies
+## 🛠️ Infrastructure & DevOps
+
+### ☁️ Infrastructure
+
+* Linux
+* Docker / Docker Compose
+* Kubernetes / K3s
+* Proxmox VE
+* Nginx
+* Ansible
+* Infrastructure automation
+
+### 🔄 CI/CD & Developer Platform
+
+* GitHub Actions
+* GitLab CI/CD
+* Docker-based build & deployment
+* Self-hosted CI/CD infrastructure
+* Deployment automation
+* GitOps
+
+### 🌐 Networking & Security
+
+* TCP/IP & HTTP
+* DNS
+* Reverse Proxy
+* TLS / SSL
+* VPN
+* Cloudflare / Zero Trust
+* Network troubleshooting
+
+### 📊 Observability
+
+* Prometheus
+* Grafana
+* Metrics & monitoring
+* Logging
+* Health checks
+* Infrastructure observability
+
+### 🗄️ Data & Services
+
+* PostgreSQL
+* Redis
+* Linux services
+* Containerized databases
+* Backup & recovery
 
 ---
 
-## 📫 **Connect with Me**
+## 💻 Software Engineering Background
+
+### Languages
+
+* **Go**
+* Python
+* TypeScript / JavaScript
+* Bash
+
+### Backend
+
+* REST APIs
+* gRPC
+* Microservices
+* PostgreSQL
+* Redis
+
+My software engineering background allows me to understand how applications behave in production and design infrastructure around real application requirements.
+
+---
+
+## 🚀 Current Focus
+
+I'm currently focusing on becoming a stronger **Infrastructure / DevOps / SRE Engineer**.
+
+```text
+Linux
+  ↓
+Networking
+  ↓
+Docker & Containers
+  ↓
+CI/CD
+  ↓
+Kubernetes
+  ↓
+Observability
+  ↓
+Infrastructure Automation
+  ↓
+SRE / Platform Engineering
+```
+
+I'm particularly interested in:
+
+* ☁️ Cloud-native infrastructure
+* ⚙️ Platform Engineering
+* 🔄 GitOps
+* ☸️ Kubernetes
+* 📈 SRE & Observability
+* 🐧 Linux & Networking
+* 🤖 Infrastructure for AI/ML workloads
+* 🔐 Infrastructure security
+
+---
+
+## 📌 Philosophy
+
+> Build it. Automate it. Monitor it. Make it reliable.
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-  <a href="mailto:Hudony00800@gmail.com ">
+  <a href="mailto:Hudony00800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.shirot.online/">
     <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="tel:+843523459">
-    <img src="https://img.shields.io/badge/Phone-%2B84%2035234059-25D366?style=for-the-badge&logo=phone&logoColor=white">
-  </a>
 </p>
-  </a>
-</p>
-<br><br><br>
-<img src="https://komarev.com/ghpvc/?username=sshirot&label=Visitors&color=0e75b6" />
+
 ---
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “Simplicity is the soul of efficiency.” — Austin Freeman
